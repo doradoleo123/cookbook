@@ -4,3 +4,5 @@ cherries
 allu
 sweet
 cake
+chicken chilli
+mutton
