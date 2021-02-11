@@ -6,3 +6,4 @@ sweet
 cake
 chicken chilli
 mutton
+beef
