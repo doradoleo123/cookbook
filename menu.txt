@@ -11,3 +11,8 @@ bull
 break
 oxygen
 h2o2
+o2
+halt
+vss
+konidala
+psk
